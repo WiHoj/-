@@ -1,0 +1,26 @@
+C:\Users\Иван\Desktop\progi\rsa des aes\Shifri\obj\Debug\Shifri.Properties.Resources.resources
+C:\Users\Иван\Desktop\progi\rsa des aes\Shifri\obj\Debug\Shifri.csproj.GenerateResource.cache
+C:\Users\Иван\Desktop\progi\rsa des aes\Shifri\obj\Debug\Shifri.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\progi\rsa des aes\Shifri\bin\Debug\Shifri.exe.config
+C:\Users\Иван\Desktop\progi\rsa des aes\Shifri\bin\Debug\Shifri.exe
+C:\Users\Иван\Desktop\progi\rsa des aes\Shifri\bin\Debug\Shifri.pdb
+C:\Users\Иван\Desktop\progi\rsa des aes\Shifri\obj\Debug\Shifri.exe
+C:\Users\Иван\Desktop\progi\rsa des aes\Shifri\obj\Debug\Shifri.pdb
+C:\Users\Иван\Desktop\progi\rsa des aes\Shifri\obj\Debug\Shifri.Main.resources
+C:\Users\Иван\Desktop\progi\rsa des aes\Shifri\obj\Debug\Shifri.RSA.resources
+C:\Users\Иван\Desktop\progi\rsa des aes\Shifri\obj\Debug\Shifri.DES.resources
+C:\Users\Иван\Desktop\progi\rsa des aes\Shifri\obj\Debug\Shifri.csprojAssemblyReference.cache
+C:\Users\Иван\Desktop\progi\rsa des aes\Shifri\obj\Debug\Shifri.AES.resources
+D:\rsa des aes\rsa des aes\Shifri\bin\Debug\Shifri.exe.config
+D:\rsa des aes\rsa des aes\Shifri\bin\Debug\Shifri.exe
+D:\rsa des aes\rsa des aes\Shifri\bin\Debug\Shifri.pdb
+D:\rsa des aes\rsa des aes\Shifri\obj\Debug\Shifri.csprojAssemblyReference.cache
+D:\rsa des aes\rsa des aes\Shifri\obj\Debug\Shifri.AES.resources
+D:\rsa des aes\rsa des aes\Shifri\obj\Debug\Shifri.DES.resources
+D:\rsa des aes\rsa des aes\Shifri\obj\Debug\Shifri.Main.resources
+D:\rsa des aes\rsa des aes\Shifri\obj\Debug\Shifri.Properties.Resources.resources
+D:\rsa des aes\rsa des aes\Shifri\obj\Debug\Shifri.RSA.resources
+D:\rsa des aes\rsa des aes\Shifri\obj\Debug\Shifri.csproj.GenerateResource.cache
+D:\rsa des aes\rsa des aes\Shifri\obj\Debug\Shifri.csproj.CoreCompileInputs.cache
+D:\rsa des aes\rsa des aes\Shifri\obj\Debug\Shifri.exe
+D:\rsa des aes\rsa des aes\Shifri\obj\Debug\Shifri.pdb
